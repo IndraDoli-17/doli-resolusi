@@ -3,3 +3,5 @@ Indra Doli Nasution Resolusi
 - mempelajari bahasa pemrograman php
 - mempelajari database
 - mempelajari laravel
+- mempelajari tailwind css
+- mempelajari react 
